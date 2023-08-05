@@ -1,6 +1,6 @@
 # Simple-Web-Crawler-for-Extracting-Subtitles
 
-Simple Web Crawler for Extracting Subtitles
+Web Crawler simples para extrair legendas
 
 **Descrição:**
 Este é um código simples de web crawler escrito em Node.js para extrair títulos de filmes mais assistidos em uma página da web. O programa utiliza as bibliotecas `axios` e `cheerio` para realizar requisições HTTP e analisar o HTML da página, respectivamente.
